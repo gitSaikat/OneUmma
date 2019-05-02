@@ -16,6 +16,74 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+            <activity android:name=".activity.MessageAddActivity"
+            android:screenOrientation="portrait"
+            android:label="Message Add"
+            android:windowSoftInputMode="adjustPan|adjustResize"/>
+
+            <activity android:name=".activity.MessageListActivity"
+            android:screenOrientation="portrait"
+            android:label="Message List"
+            android:windowSoftInputMode="adjustPan|adjustResize"/>
+
+            <activity android:name=".activity.MosqueAddActivity"
+            android:screenOrientation="portrait"
+            android:label="Mosque Add"
+            android:windowSoftInputMode="adjustPan|adjustResize"/>
+
+            <activity android:name=".activity.MosqueListActivity"
+            android:screenOrientation="portrait"
+            android:label="Mosque List"
+            android:windowSoftInputMode="adjustPan|adjustResize"/>
+
+            <activity android:name=".activity.MuajiinAddActivity"
+            android:screenOrientation="portrait"
+            android:label="Muajjin Add"
+            android:windowSoftInputMode="adjustPan|adjustResize"/>
+
+            <activity android:name=".activity.MuajjinListActivity"
+            android:screenOrientation="portrait"
+            android:label="Muajjin List"
+            android:windowSoftInputMode="adjustPan|adjustResize"/>
+
+            <activity android:name=".activity.MusulliActivity"
+            android:screenOrientation="portrait"
+            android:label="Musulli"
+            android:windowSoftInputMode="adjustPan|adjustResize"/>
+
+            <activity android:name=".activity.PrayerTimeActivity"
+            android:screenOrientation="portrait"
+            android:label="Prayer Time"
+            android:windowSoftInputMode="adjustPan|adjustResize"/>
+
+            <activity android:name=".activity.ProfileActivity"
+            android:screenOrientation="portrait"
+            android:label="Profile"
+            android:windowSoftInputMode="adjustPan|adjustResize"/>
+
+            <activity android:name=".activity.SettingsActivity"
+            android:screenOrientation="portrait"
+            android:label="Settings"
+            android:windowSoftInputMode="adjustPan|adjustResize"/>
+
+            <activity android:name=".activity.SignupActivity"
+            android:screenOrientation="portrait"
+            android:label="Signup"
+            android:windowSoftInputMode="adjustPan|adjustResize"/>
+
+            <activity android:name=".activity.UpdatePasswordActivity"
+            android:screenOrientation="portrait"
+            android:label="Update Password"
+            android:windowSoftInputMode="adjustPan|adjustResize"/>
+
+            <activity android:name=".activity.UpdateProfileActivity"
+            android:screenOrientation="portrait"
+            android:label="Update Profile"
+            android:windowSoftInputMode="adjustPan|adjustResize"/>
+
+
+
     </application>
 
 </manifest>

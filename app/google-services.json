@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "368927870154",
+    "firebase_url": "https://oneumma2019.firebaseio.com",
+    "project_id": "oneumma2019",
+    "storage_bucket": "oneumma2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368927870154:android:169671eec3e032bd",
+        "android_client_info": {
+          "package_name": "com.project.axislab.oneummah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368927870154-u9ifcuc4u7cmibb22j2h12o04i08q383.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADhMZPu6F1Me5KnzIHy1uWlOKalcDsjAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368927870154-u9ifcuc4u7cmibb22j2h12o04i08q383.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
